@@ -10,6 +10,7 @@ public class class1 {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Wai pulica fara frica");
+		System.out.println("Mabei la putulioca");
 	}
 
 }
