@@ -11,6 +11,8 @@ public class class1 {
 		
 		System.out.println("Wai pulica fara frica");
 		System.out.println("Mabei la putulioca");
+		
+		System.out.println("Ha ha scarba mica");
 	}
 
 }
